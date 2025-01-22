@@ -3,7 +3,9 @@ Este script é uma aplicação simples desenvolvida em Python utilizando a bibli
 
 # Funcionamento:
 Relógio Digital: Exibe a hora atual atualizada em tempo real (formato 24h).
+<br>
 Calendário: Um calendário interativo que permite a visualização do mês atual.
+<br>
 Cronômetro: Controle de tempo com funções de iniciar, parar e zerar o cronômetro.
 
 # Dependências:
