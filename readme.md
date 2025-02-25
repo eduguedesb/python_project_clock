@@ -9,7 +9,7 @@ Calendário: Um calendário interativo que permite a visualização do mês atua
 Cronômetro: Controle de tempo com funções de iniciar, parar e zerar o cronômetro.
 
 # Dependências:
-PyQt5: biblioteca de ferramentas multiplataforma para desenvolvimento de interfaces gráficas (GUI).
+Dependências listadas no arquivo "requirements.txt".
 
 # Como Usar:
 Execute o script com o seguinte comando: py clock.py ou python clock.py.
